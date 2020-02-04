@@ -4,6 +4,9 @@
 
     <data>
 
+        <variable
+            name="onClickBackListener"
+            type="com.cralos.myapplicationmvvm.OnClickBack" />
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

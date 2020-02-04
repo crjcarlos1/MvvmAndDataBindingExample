@@ -14,7 +14,7 @@ import androidx.fragment.app.FragmentTransaction;
 
 import com.cralos.myapplicationmvvm.R;
 import com.cralos.myapplicationmvvm.databinding.FragmentMenuBinding;
-import com.cralos.myapplicationmvvm.films.FragmentFilms;
+import com.cralos.myapplicationmvvm.films.view.FragmentFilms;
 import com.cralos.myapplicationmvvm.menu.interfaces.OnClickMenu;
 import com.cralos.myapplicationmvvm.people.view.FragmentPeople;
 

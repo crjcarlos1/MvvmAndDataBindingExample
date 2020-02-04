@@ -53,7 +53,7 @@
             android:layout_marginTop="6dp"
             android:background="@drawable/round_button"
             android:customFont="@{@string/roboto_regular_font}"
-            android:onClick="@{()->onClickListener.onClickFilms()()}"
+            android:onClick="@{()->onClickListener.onClickFilms()}"
             android:text="@string/films"
             android:textAllCaps="false"
             android:textColor="@color/colorAccent"
