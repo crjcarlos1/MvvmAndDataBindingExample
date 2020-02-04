@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Start Wars</string>
+
+    <!--Fonts-->
+    <string name="title_font">title_font.ttf</string>
+    <string name="roboto_regular_font">roboto_regular.ttf</string>
+
+    <!--Fragment Menu-->
+    <string name="titleMenu">STAR WARS\nAPI</string>
+    <string name="people">People</string>
+    <string name="films">Films</string>
+</resources>
